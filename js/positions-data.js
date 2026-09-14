@@ -12,7 +12,7 @@ const POSITIONS = [
   {
     title: "2 postdoc and 1 phD positions on computational mechanisms of human perception (one postdoc position joint with Chris Summerfield)",
     date: "2026-09-14",
-    body: 'The group of Alex Hyafil at the CRM Barcelona (<a href="https://ahyafil.github.io/">https://ahyafil.github.io/</a>) is looking for two postdoc researchers and a PhD student.  
+    body: `The group of Alex Hyafil at the CRM Barcelona (<a href="https://ahyafil.github.io/">https://ahyafil.github.io/</a>) is looking for two postdoc researchers and a PhD student.  
     
 One of the postdoc positions will be co-supervised by Chris Summerfield (Universitat Pompeu Fabra Barcelona / Oxford; <a href="https://humaninformationprocessing.com/">https://humaninformationprocessing.com/</a>). The selected candidate will investigate the computational operations underlying visual scene perception through a combination of simulation of artificial visual systems (conv nets, visual transformers) and human experiments. The position is for two years.
 
@@ -24,7 +24,7 @@ APPLICATION: Send a curriculum and motivation with a list of two contacts for re
 
 DEADLINE: before October 31 for the PhD position; until position is filled for the postdoc positions.
 
-STARTING DATE: before July 2027 for the PhD position; flexible for the postdoc positions'
+STARTING DATE: before July 2027 for the PhD position; flexible for the postdoc positions`
   }
 ];
 
