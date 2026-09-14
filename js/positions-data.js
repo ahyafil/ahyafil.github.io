@@ -12,19 +12,19 @@ const POSITIONS = [
   {
     title: "2 postdoc and 1 phD positions on computational mechanisms of human perception (one postdoc position joint with Chris Summerfield)",
     date: "2026-09-14",
-    body: "The group of Alex Hyafil at the CRM Barcelona (<a href='https://ahyafil.github.io/'>https://ahyafil.github.io/</a>) is looking for two postdoc researchers and a PhD student.  
+    body: 'The group of Alex Hyafil at the CRM Barcelona (<a href="https://ahyafil.github.io/">https://ahyafil.github.io/</a>) is looking for two postdoc researchers and a PhD student.  
     
-One of the postdoc positions will be co-supervised by Chris Summerfield (Universitat Pompeu Fabra Barcelona / Oxford; <a href='https://humaninformationprocessing.com/'>https://humaninformationprocessing.com/</a>). The selected candidate will investigate the computational operations underlying visual scene perception through a combination of simulation of artificial visual systems (conv nets, visual transformers) and human experiments. The position is for two years.
+One of the postdoc positions will be co-supervised by Chris Summerfield (Universitat Pompeu Fabra Barcelona / Oxford; <a href="https://humaninformationprocessing.com/">https://humaninformationprocessing.com/</a>). The selected candidate will investigate the computational operations underlying visual scene perception through a combination of simulation of artificial visual systems (conv nets, visual transformers) and human experiments. The position is for two years.
 
 The other postdoc researcher (2-year duration) and the PhD student (4-year) will work jointly on identifying canonical Bayesian operations at play in human visual and auditory perception. The project involves Bayesian modelling, artificial vision network simulations, behavioral and EEG experiments as well as intra-cranial EEG experiments (in collaboration with Benjamin Morillon, AMU Marseille). We will look for complementarity of the two profiles, notably in terms of quantitative and experimental backgrounds.  
 
 The hired researchers will benefit from the stimulating environment of the Barcelona area in cognitive and computational neuroscience. Our groups form part of a larger interacting network of neuroscience labs in Barcelona (http://www.barccsyn.org). Financial support is provided by the Spanish National Agency of Investigation (FPI fellowship for the PhD student).
 
-APPLICATION: Send a curriculum and motivation with a list of two contacts for recommendation letter at <a href='https://bit.ly/ChrisAlexPositions'>https://bit.ly/ChrisAlexPositions</a>. Informal enquiries are welcome.
+APPLICATION: Send a curriculum and motivation with a list of two contacts for recommendation letter at <a href="https://bit.ly/ChrisAlexPositions">https://bit.ly/ChrisAlexPositions</a>. Informal enquiries are welcome.
 
 DEADLINE: before October 31 for the PhD position; until position is filled for the postdoc positions.
 
-STARTING DATE: before July 2027 for the PhD position; flexible for the postdoc positions"
+STARTING DATE: before July 2027 for the PhD position; flexible for the postdoc positions'
   }
 ];
 
