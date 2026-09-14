@@ -77,13 +77,13 @@ photo: "assets/people/babyalex.jpg",
  },
  {
      name: "Lucía Sánchez",
-     role: "master Student",
-     photo: "",
+     role: "research assistant",
+     photo: "assets/people/lucias.jpg",
      bio: "",
  	links: {
        email: "",
        website: "",
-       github: "",
+       github: "https://github.com/lucia-sanchz",
        bluesky: "",
        scholar: ""
      }
