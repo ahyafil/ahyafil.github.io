@@ -123,7 +123,7 @@ const ALUMNI = [
     name: "María da Fonseca",
     role: "postdoc, now faculty at Conicet (Argentina)",
         bio: "",
-    photo: "assets/people/maria.jpg",
+    photo: "assets/people/maria.jpeg",
     links: {
       email: "",
       website: "",
