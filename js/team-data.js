@@ -29,7 +29,7 @@ const TEAM = [
     photo: "assets/people/lucia.jpg",
     bio: "Lucía studied Biomedical Engineering at the UPM in Madrid, where she became interested in the interface between neuroscience and engineering. She then studied a Master of Science in Neurotechnology at Imperial College London and carried out her master’s thesis at Clopath’s Lab. In 2021 she joined the Perea lab at the Cajal Institute (CSIC) as a research assistant, where she worked on in vivo electrophysiology. Since 09/2022, she is a PhD student at the Computational Neuroscience Unit at the CRM working on spatiotemporal stimulus integration in perceptual decision making.",
 links: {
-      email: "",
+      email: "larancibia@crm.cat",
       website: "",
       github: "https://github.com/luciadearancibia",
       bluesky: "",
@@ -42,22 +42,22 @@ links: {
         bio: "Alex wants to understand how neural systems perceive, and how their structure makes that perception robust or fragile. He studies these questions in both brains and artificial networks, using probabilistic inference and machine learning.",
 photo: "assets/people/babyalex.jpg",
     links: {
-      email: "",
+      email: "agarcia@crm.cat",
       website: "https://alexgarciaduran.github.io/",
       github: "https://github.com/alexgarciaduran",
-      bluesky: "",
+      bluesky: "https://bsky.app/profile/alexgaduca.bsky.social/",
       scholar: ""
     }
  },
 {
     name: "Haowen (Howie) Tang",
     role: "PhD Student",
-    photo: "",
-    bio: "",
+    photo: "assets/people/howie.jpg",
+    bio: "Howie started with a background in computer science and he holds a BSc and MSc from the University of Melbourne. After 2 years as a software developer at Australian Bureau of Statistics, he pursued a Master of Brain and Cognition at Universitat Pompeu Fabra. He is currently a PhD student at the CRM and he is interested in combining computational modelling and neuroimaging (particularly EEG) to study cognitive functions in humans, such as attention and visual perception.",
 	links: {
-      email: "",
+      email: "htang@crm.cat",
       website: "",
-      github: "",
+      github: "https://github.com/howie-t",
       bluesky: "",
       scholar: ""
     }
