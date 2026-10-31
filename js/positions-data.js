@@ -20,7 +20,8 @@ The other postdoc researcher (2-year duration) and the PhD student (4-year) will
 
 The hired researchers will benefit from the stimulating environment of the Barcelona area in cognitive and computational neuroscience. Our groups form part of a larger interacting network of neuroscience labs in Barcelona (http://www.barccsyn.org). Financial support is provided by the Spanish National Agency of Investigation (FPI fellowship for the PhD student).
 
-APPLICATION: Send a curriculum and motivation with a list of two contacts for recommendation letter at <a href="https://bit.ly/ChrisAlexPositions">https://bit.ly/ChrisAlexPositions</a>. Informal enquiries are welcome.
+APPLICATION: (PHD) Follow instructions at <a href="https://www.crm.cat/call/114/fpi-phd-student-ref-17-2026-00200004-/137/">https://www.crm.cat/call/114/fpi-phd-student-ref-17-2026-00200004-/137/</a>,
+(Postdoc)  Send a curriculum and motivation with a list of two contacts for recommendation letter at alexandre (dot) hyafil (at) gmail (dot) com. Informal enquiries are welcome.
 
 DEADLINE: before October 31 for the PhD position; until position is filled for the postdoc positions.
 
